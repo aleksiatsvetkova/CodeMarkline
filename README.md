@@ -2,9 +2,17 @@
 
 **Branded footers for your photos.**
 
-CodeMarkline is an Android app for adding logos, text, and a consistent finishing style to your photos. Start with a template, make it your own, and save or share a single image or a batch—all with on-device editing.
+CodeMarkline is an offline Android photo editor for creating customizable branded footers with logos, text, and reusable styles. Private, precise, and built for effortless photo branding.
 
-Requires **Android 10 or later**.
+## Download
+
+[**Download CodeMarkline v0.1.0-alpha.1**](https://github.com/aleksiatsvetkova/CodeMarkline/releases/tag/v0.1.0-alpha.1)
+
+Download the latest available APK from the GitHub Releases page and install it on your Android device.
+
+**Requirements:** Android 10 or later.
+
+**Note:** CodeMarkline is currently in alpha. Features may be incomplete, and bugs or unexpected behavior may occur.
 
 ## Make your photos look like a set
 
