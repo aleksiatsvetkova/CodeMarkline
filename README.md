@@ -9,7 +9,8 @@ CodeMarkline is an offline Android photo editor for creating customizable brande
 
 To install CodeMarkline, [download the latest APK](https://github.com/aleksiatsvetkova/CodeMarkline/releases/latest), open the downloaded file, and follow the installation instructions on your Android device.
 
-CodeMarkline requires Android 10 or later. As the application is currently in alpha, some features may be incomplete or behave unexpectedly.
+- **Requirements:** Android 10 or later.
+- **Note:** CodeMarkline is currently in alpha. Features may be incomplete, and bugs or unexpected behavior may occur.
 
 ## Make your photos look like a set
 
