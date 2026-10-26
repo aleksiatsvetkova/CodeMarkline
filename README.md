@@ -2,8 +2,7 @@
 
 **Branded footers for your photos.**
 
-CodeMarkline is an offline Android photo editor for creating customizable branded footers with logos, text, and reusable styles. Private, precise, and built for effortless photo branding.
-
+CodeMarkline is an offline-capable Android photo editor for creating customizable branded footers with logos, text, and reusable styles. Start with a template, make it your own, and save or share a single image or a batch—all with on-device editing. Private, precise, and built for effortless photo branding.
 
 ## Installing CodeMarkline takes just a few steps
 
@@ -39,10 +38,19 @@ To install CodeMarkline, [download the latest APK](https://github.com/aleksiatsv
 
 To reuse your style, choose **Save as preset** in Templates. Your original photos are not overwritten by editing or export.
 
+## Keep CodeMarkline up to date
+
+CodeMarkline checks GitHub for newer releases, including prereleases, when you launch the app. You can also open **About → Check for updates**.
+
+When an update is available, read its release notes and choose **Download update**. Keep the app open while downloading; progress is shown in the update dialog. After verification, choose **Install update**. If Android asks, allow CodeMarkline to install apps from this source, then confirm the update in Android's installer. You can revoke that permission afterward.
+
+An update replaces the app without uninstalling it, keeping your workspace, presets, and imported content. You can decline or cancel without changing the installed app. If verification fails or the APK has a different signing identity, it will not be installed; do not uninstall the app to bypass that warning. Network, storage, and device-policy restrictions can prevent an update; editing and export remain available.
+
 ## Privacy and offline use
 
-- Photo editing and export happen on your device. CodeMarkline does not request internet access or upload photos for processing.
+- Photo editing and export happen entirely on your device. CodeMarkline does not upload photos for processing or require an internet connection for local editing and export.
 - Editing and export work offline with photos already available on your device. Cloud-only photos offered by the system picker may need connectivity before they can be used.
+- Automatic and manual update checks contact GitHub. Downloading an update also contacts GitHub's servers, which receive connection information such as your IP address. Update downloads and installation require your approval.
 - Exported images do not retain the source photo's EXIF metadata, such as embedded GPS coordinates. Visible details in a photo can still reveal personal information.
 - Choosing **Share** passes your exported images to the app you select. That app's permissions and privacy practices apply.
 - Android backup or device-transfer services act according to your device settings and their own privacy practices.
@@ -51,7 +59,7 @@ For help choosing photos, see [Android's photo picker guide](https://support.goo
 
 ## Feedback
 
-Use this repository's **Issues** tab to report a bug or suggest a feature. For bugs, include your Android version, CodeMarkline version, steps to reproduce, and what you expected versus what happened.
+Use this repository's [Issues](https://github.com/aleksiatsvetkova/CodeMarkline/issues) tab to report a bug or suggest a feature. For bugs, include your Android version, CodeMarkline version, steps to reproduce, and what you expected versus what happened.
 
 Issues are public. Do not include private photos, personal information, or other sensitive material. Use a non-sensitive example if an image is needed to explain a problem.
 
