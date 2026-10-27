@@ -4,7 +4,7 @@
 
 CodeMarkline is an offline-capable Android photo editor for adding branded footers with logos, text, and reusable styles. Start with a template, customize your branding, and save or share a single photo or a batch. Photo editing and export run on your device.
 
-## Install CodeMarkline
+## Installing takes just a few steps
 
 Open the [GitHub releases page](https://github.com/aleksiatsvetkova/CodeMarkline/releases), choose the newest release, and download its APK from **Assets**. Current alpha builds are marked as prereleases. Open the downloaded file and follow Android's installation prompts. If asked, allow the app opening the APK to install apps from that source; you can revoke that permission afterward.
 
